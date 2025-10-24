@@ -1,0 +1,24 @@
+# Build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+
+# Large files
+*.zip
+*.rar
+*.7z
+
+# Vosk models (too large for GitHub)
+vosk-model-*/

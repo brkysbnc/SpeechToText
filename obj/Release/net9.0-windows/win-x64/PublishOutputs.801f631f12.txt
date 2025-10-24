@@ -1,2 +1,0 @@
-C:\Users\berka\Desktop\VoskWorking\bin\Release\net9.0-windows\win-x64\publish\VoskSpeechToText_Final_v3.pdb
-C:\Users\berka\Desktop\VoskWorking\bin\Release\net9.0-windows\win-x64\publish\VoskSpeechToText_Final_v3.exe
